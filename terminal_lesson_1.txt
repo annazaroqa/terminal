@@ -1,0 +1,12 @@
+pwd
+mkdir
+cd
+touch
+vim
+mv
+cp
+find
+grep
+head
+tail
+less
