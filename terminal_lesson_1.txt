@@ -9,6 +9,3 @@ find
 grep
 head
 tail
-less
-
-xckvjxclkjv
