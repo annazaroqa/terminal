@@ -9,6 +9,3 @@ find
 grep
 head
 tail
-
-1234
-11111111j
